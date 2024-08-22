@@ -1,0 +1,105 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap");
+
+body * {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+body {
+  color: #ffffff;
+  text-align: center;
+  background-color: #000000;
+}
+
+#sectioniguana {
+  margin: 35px;
+  padding: 45px;
+}
+
+#parrafosiguana {
+  padding: 30px;
+  text-align: left;
+  top: 576px;
+  left: 250px;
+  width: 585px;
+}
+
+#imgiguanaderecha {
+  height: 300px;
+  width: 370px;
+  float: right;
+}
+
+#iconos {
+  padding-top: 50px;
+  padding-bottom: 40px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  gap: 170px;
+}
+
+i {
+  font-size: 50px;
+  padding: 20px;
+}
+#seccioniconos {
+  padding: 20px;
+  background-color: #1e1a13;
+}
+
+.iguanasabajo {
+  width: 280px;
+  height: 180px;
+  object-fit: cover;
+}
+
+.contenedoriguanas {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+
+#sectionfooter {
+  padding: 30px;
+  background-color: #1e1a13;
+  color: #ffffff;
+}
+a {
+  text-decoration: none;
+}
+
+.fuenteparrafo {
+  font-family: "Raleway", sans-serif;
+
+  font-style: normal;
+  font-size: 18px;
+  font-variant: normal;
+  font-weight: 200;
+  font
+}
+
+.otrasfuentes {
+  font-family: "Raleway", sans-serif;
+  font-style: normal;
+  font-size: 30px;
+  font-variant: normal;
+  font-weight: 300;
+}
+
+#sectioniconos {
+  padding: 15px;
+  background-color: #1e1a13;
+}
+
+footer {
+  color: #1e1a13;
+}
+footer a {
+  color: #ffffff;
+}
